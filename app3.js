@@ -17,12 +17,7 @@ for (let j = 0; j < friends.length; j++) {
         }
     }
 }
-/*let friends = ["John", "Lauren", "Taylor", "Michael", "Thomas"];
 
-for (let i = 0; i < friends.length; i++) {
-    console.log(friends[i]);
-}
-*/
 
 
 
